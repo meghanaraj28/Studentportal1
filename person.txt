@@ -1,0 +1,9 @@
+Basic Details:
+Name:
+Roll no:
+Phone no:
+Class:
+Group:
+SUC Code:
+Additional phno:
+
